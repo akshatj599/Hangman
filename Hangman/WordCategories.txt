@@ -1,0 +1,8 @@
+Actors-1 to 20
+Cars- 21 to 40
+Cities- 41 to 60
+Food- 61 to 80
+Landmarks- 81 to 100
+Movies- 101 to 120
+Games/Sports- 121 to 140
+Tv Shows/Serials- 141 to 160
