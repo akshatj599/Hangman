@@ -5,4 +5,3 @@
 <br><br>
 <img src="Screenshots/Main3.png" alt="Hangman 3" width="360" height="536"/> &nbsp; &nbsp; <img src="Screenshots/Main4.png" alt="Hangman 4" width="360" height="536"/>
 
-Note: Please install the required fonts in your system if you wish to download & run.
